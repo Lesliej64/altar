@@ -9,6 +9,10 @@ Save every document, plan, or deliverable you create for the user to the **Zenk*
 
 Also keep a copy in this repo as before.
 
+## Where to send email
+
+Send all business email (plans, documents, updates about the businesses) to the user's business Gmail: **zenkbusinesssupport@gmail.com**. Do not send business email to their personal address.
+
 ## Context
 
 The user is starting two home businesses — see `README.md`:
