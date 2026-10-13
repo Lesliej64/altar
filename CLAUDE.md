@@ -19,7 +19,7 @@ Keep answers short and simple. One step at a time. No long lists. Ask what devic
 
 ## Where we left off
 
-First AI automation demo (instant lead reply for "Smith Roofing") **works** in Make.com: Google Sheets **Watch Rows** → Gmail **Send an email** (sent from zenkbusinesssupport@gmail.com). Test run sent the reply successfully. Fix for the old 404 / "settings couldn't be applied": in the Sheets module use **Search by path** → My Drive → Zenk → "Smith Roofing Demo Leads", sheet `Leads` (ID `16M5AYZ5UJPdRKPUNieQpy-zv460V6IJuqCIgChoF7qs`; columns: Timestamp, Your name, Email, Phone, How can we help?). Next: turn the scenario ON (schedule), then test with a new row.
+First AI automation demo (instant lead reply for "Smith Roofing") **works** in Make.com: Google Sheets **Watch Rows** → Gmail **Send an email** (sent from zenkbusinesssupport@gmail.com). Scenario is **ON** (Active) and a live test with a new row (James Carter) got the auto-reply. Fix for the old 404 / "settings couldn't be applied": in the Sheets module use **Search by path** → My Drive → Zenk → "Smith Roofing Demo Leads", sheet `Leads` (ID `16M5AYZ5UJPdRKPUNieQpy-zv460V6IJuqCIgChoF7qs`; columns: Timestamp, Your name, Email, Phone, How can we help?). Next: record a short screen video of the demo to show prospects.
 
 ## Context
 
