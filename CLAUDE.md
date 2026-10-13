@@ -19,7 +19,7 @@ Keep answers short and simple. One step at a time. No long lists. Ask what devic
 
 ## Where we left off
 
-Building the first AI automation demo (instant lead reply for "Smith Roofing") in Make.com. Stuck connecting Make to Google Sheets (404 error). Next time: skip Google and start the scenario with a Make **Custom webhook** instead. Test sheet: "Smith Roofing Demo Leads" in the Zenk folder (ID `16M5AYZ5UJPdRKPUNieQpy-zv460V6IJuqCIgChoF7qs`, tab `Leads`).
+First AI automation demo (instant lead reply for "Smith Roofing") **works** in Make.com: Google Sheets **Watch Rows** → Gmail **Send an email** (sent from zenkbusinesssupport@gmail.com). Test run sent the reply successfully. Fix for the old 404 / "settings couldn't be applied": in the Sheets module use **Search by path** → My Drive → Zenk → "Smith Roofing Demo Leads", sheet `Leads` (ID `16M5AYZ5UJPdRKPUNieQpy-zv460V6IJuqCIgChoF7qs`; columns: Timestamp, Your name, Email, Phone, How can we help?). Next: turn the scenario ON (schedule), then test with a new row.
 
 ## Context
 
